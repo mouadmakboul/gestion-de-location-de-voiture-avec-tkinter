@@ -25,7 +25,7 @@ class GestionFacture():
         def home():
             root.destroy()
             os.system('index.py')
-        # Add Some Style
+        # Add Some Style# Add Some Style# Add Some Style
          # Add Some Style
         # Add Some Style
 	# Add Some Style
