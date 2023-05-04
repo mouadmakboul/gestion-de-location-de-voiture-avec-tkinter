@@ -28,9 +28,12 @@ class GestionFacture():
         # Add Some Style
          # Add Some Style
           # Add Some Style
+<<<<<<< HEAD
 	# Add Some Style
 	# Add Some Style
 	# Add Some Style
+=======
+>>>>>>> main
         # Add some style
         style = ttk.Style()
 #Pick a theme
