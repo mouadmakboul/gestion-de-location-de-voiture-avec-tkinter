@@ -26,6 +26,8 @@ class GestionFacture():
             root.destroy()
             os.system('index.py')
         # Add Some Style
+         # Add Some Style
+          # Add Some Style
         # Add some style
         style = ttk.Style()
 #Pick a theme
