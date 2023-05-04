@@ -27,7 +27,7 @@ class GestionFacture():
             os.system('index.py')
         # Add Some Style
          # Add Some Style
-          # Add Some Style
+        # Add Some Style
 	# Add Some Style
 	# Add Some Style
 	# Add Some Style
